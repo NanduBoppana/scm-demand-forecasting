@@ -1,0 +1,9 @@
+Model,Train data,MAE,RMSE,MAPE %
+Seasonal naive,raw,6.46,7.76,39.13
+"SARIMA (d=0,D=1)",raw,4.59,5.54,30.28
+"SARIMA (d=1,D=1)",raw,4.92,6.06,33.23
+Holt-Winters,raw,4.67,5.66,31.01
+Seasonal naive,filtered,5.28,6.56,35.83
+"SARIMA (d=0,D=1)",filtered,4.9,6.11,32.68
+"SARIMA (d=1,D=1)",filtered,5.46,6.74,37.29
+Holt-Winters,filtered,5.06,6.29,34.01
