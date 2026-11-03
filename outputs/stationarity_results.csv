@@ -1,0 +1,4 @@
+Series,ADF_h,ADF_p,KPSS_h,KPSS_p
+Raw,1,0.001,1,0.01
+diff(1),1,0.001,0,0.1
+diff(7),1,0.001,0,0.1
