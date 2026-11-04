@@ -1,0 +1,7 @@
+Model,Train data,MAE,RMSE,MAPE %
+LSTM,raw,3.88,4.66,24.32
+XGBoost,raw,3.88,4.7,22.6
+"SARIMA (d=0,D=1)",raw,4.59,5.54,30.28
+Holt-Winters,raw,4.67,5.66,31.01
+"SARIMA (d=1,D=1)",raw,4.92,6.06,33.23
+Seasonal naive,filtered,5.28,6.56,35.83
