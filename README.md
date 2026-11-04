@@ -1,10 +1,5 @@
 # AI/ML-Based Demand Forecasting
 
-Individual project for Supply Chain Management (ME F421), BITS Pilani, Hyderabad Campus.
-Theme 2: Demand Prediction Using Advanced Forecasting Models.
-
-Author: Boppana Sri Sai Siva Nandu (2024A4PS0640H)
-
 ## Overview
 This project forecasts daily retail demand for one product and compares traditional
 time-series methods with machine learning models.
