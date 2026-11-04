@@ -1,4 +1,4 @@
-# AI/ML-Based Demand Forecasting (SCM Project, ME F421)
+# AI/ML-Based Demand Forecasting
 
 Individual project for Supply Chain Management (ME F421), BITS Pilani, Hyderabad Campus.
 Theme 2: Demand Prediction Using Advanced Forecasting Models.
