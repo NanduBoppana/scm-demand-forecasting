@@ -1,0 +1,3 @@
+Model,Train data,MAE,RMSE,MAPE %
+LSTM,raw,3.88,4.66,24.32
+LSTM,filtered,4.25,5.46,26.65
