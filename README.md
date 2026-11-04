@@ -62,5 +62,3 @@ pip install pandas numpy matplotlib statsmodels scikit-learn xgboost torch noteb
 ```
 Download `train.csv` from Kaggle and place it in `data/`. MATLAB (Econometrics Toolbox) is needed only for `stationarity.m`.
 
-## Links
-- Video presentation: [paste video link here]
